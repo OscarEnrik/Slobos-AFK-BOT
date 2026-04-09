@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "tacariguaofficial.falixsrv.me",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Putos",
         "I like to play Minecraft!"
       ]
     },
